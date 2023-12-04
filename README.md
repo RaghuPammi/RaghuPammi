@@ -47,16 +47,16 @@ I'm Raghu Pammi from India, and I'm Frontend developer looking to leverage my pa
 
 ### Activity Graph 📈
 <p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=iamnaveensurya&theme=minimal"/>
+	<img src="https://activity-graph.herokuapp.com/graph?username=RaghuPammi&theme=minimal"/>
 </p>
 
 ### Github Profile Summary Card 💳
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamnaveensurya&theme=vue"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaghuPammi&theme=vue"/>
 </p>
 
 ### GitHub Stats 📟
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=iamnaveensurya&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=iamnaveensurya&theme=vue" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=RaghuPammi&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RaghuPammi&theme=vue" />
 </p>
