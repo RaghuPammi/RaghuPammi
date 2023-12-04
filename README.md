@@ -1,5 +1,5 @@
 
-![gh-banner](https://user-images.githubusercontent.com/79559401/190482069-8a61eacb-091f-4fd1-a0ea-764e3dda2539.png)
+![gh-banner](https://miro.medium.com/v2/resize:fit:1400/1*1ojV4epPGRxhZE26dVI4pQ.gif)
 
 
 
@@ -11,13 +11,13 @@ I'm Raghu Pammi from India, and I'm Frontend developer looking to leverage my pa
 <a href=""> 
 <img src="https://img.shields.io/badge/check%20out%20my%20Portfolio-042549?style=for-the-badge&logo=CodersRank&logoColor=white" alt="portfolio" />
 </a>
-<a href="https://www.linkedin.com/in/p" target="_blank">
+<a href="https://www.linkedin.com/in/pammi-raghu-5815992a3" target="_blank">
 <img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
-<a href="https://naveensurya.hashnode.dev/" target="_blank">
+<a href="" target="_blank">
 <img src="https://img.shields.io/badge/read%20my%20blogs%20on%20Hashnode-blue?style=for-the-badge&logo=Hashnode&logoColor=white" alt="Hashnode" />
 </a>
-<a href="mailto:naveensurya064@gmail.com" target="_blank">
+<a href="mailto:raghupammi00@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
 </a>
 </div>
